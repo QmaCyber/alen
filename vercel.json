@@ -11,6 +11,10 @@
     { "src": "/test3",  "dest": "/test.html" },
     { "src": "/test4",  "dest": "/test.html" },
     
+
+    { "src": "/transit",  "dest": "/transit.html" },
+    { "src": "/transit2",  "dest": "/transit2.html" },
+    { "src": "/transit3",  "dest": "/transit3.html" },
     { "src": "/transit4",  "dest": "/transit4.html" },
     { "src": "/bluebook",  "dest": "/bluebook.html" },
     
