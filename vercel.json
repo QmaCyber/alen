@@ -1,8 +1,19 @@
 {
   "routes": [
-    { "src": "/terms", "dest": "/terms.html" },
-    { "src": "/test",  "dest": "/test.html" },
     { "src": "/start",  "dest": "/start.html" },
+    { "src": "/terms", "dest": "/terms.html" },
+    
+    { "src": "/test",  "dest": "/test.html" },
+    { "src": "/test2",  "dest": "/test.html" },
+
+    { "src": "/break",  "dest": "/break.html" },
+
+    { "src": "/test3",  "dest": "/test.html" },
+    { "src": "/test4",  "dest": "/test.html" },
+    
+    { "src": "/transit4",  "dest": "/transit4.html" },
+    { "src": "/bluebook",  "dest": "/bluebook.html" },
+    
 
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
