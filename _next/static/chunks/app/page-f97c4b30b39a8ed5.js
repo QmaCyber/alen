@@ -7,7 +7,7 @@
 			"use strict";a.d(t, {
 				w: () => r
 			});
-			let s = ["Ivan Ivanov","Tomiris Almukhanbetova", "Omirzak Assyl", "Sabina Kozhagaliyeva", "Ekaterina Serazeeva", "Assylzhan Yelemes", "Adelya Kabdulda", "Alisher Abylkassymov", "Yerassyl Zhagalbayev", "Aituar Serikbayev",];
+			let s = ["Ivan Ivanov","Tomiris Almukhanbetova", "Omirzak Assyl", "Sabina Kozhagaliyeva", "Ekaterina Serazeeva", "Assylzhan Yelemes", "Adelya Kabdulda", "Alisher Abylkassymov", "Yerassyl Zhagalbayev", "Aituar Serikbayev", "Aikyn Bolatov",];
 
 			function r(e, t) {
 				if(!e || !t) return !1;
